@@ -4,6 +4,5 @@
 Prolog::Prolog(){}
 
 void Prolog::inicialization(){
-    Game::dialog("À muitos anos, num dia comum, numa vila comum, sobre uma luz forte de sol resplandecente,\
-um jovem aspirante a guerreiro ");
+    Game::dialog("A muitos anos, num dia comum, numa vila comum, sob uma luz forte de sol resplandecente,\n um jovem aspirante a guerreiro ");
 }

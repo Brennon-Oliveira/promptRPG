@@ -22,6 +22,7 @@ Game::Game(){
 
      
     endwin();
+    cout<<"à";
 }
 
 string Game::question(char question[], char options[][255], int optionsSize){
